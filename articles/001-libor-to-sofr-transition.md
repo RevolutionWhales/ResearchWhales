@@ -119,6 +119,7 @@ ___
 
 * The transition to SOFR is an important step in ensuring the long-term stability and reliability of the financial system, and JPMorgan is committed to working with its clients and industry partners to make the transition as smooth and seamless as possible.
 
+___
 
 > Based on these articles, can you suggest what the future of financial systems might look like?
 
@@ -127,6 +128,8 @@ ___
 * Additionally, as noted in the article on central banks, there is a delicate balance to be struck between supporting economic growth and preventing inflation, and central banks will need to navigate this balance carefully in the coming months. The timing and pace of monetary tightening could be a source of volatility and uncertainty in the markets.
 
 * Overall, the future of financial systems is likely to be shaped by a combination of technological advancements, regulatory changes, and evolving economic conditions. The financial industry will need to adapt and innovate in order to stay ahead of these changes and continue to serve the needs of clients and customers.
+
+___
 
 > How do you see Revolution Populi blockchain and RVP based clearing house in context of those articles?
 
