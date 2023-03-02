@@ -174,6 +174,8 @@ graph TD;
   J --> B
 ```
 
+##### These connections illustrate how various parties work together within the financial system to create a complex web of interactions and transactions. The Revolution Populi blockchain and RVP-based clearing house act as a central hub for these interactions, providing a transparent and efficient platform for market participants to transact with each other securely and reliably.
+
 * Asset managers invest funds on behalf of investors into the market.
 
 * Custodian banks hold assets on behalf of market participants and confirm transactions with the clearing house.
