@@ -173,3 +173,13 @@ graph TD;
   I -->|Interoperate with other systems| J(Other Financial Systems)
   J --> B
 ```
+
+* Asset managers invest funds on behalf of investors into the market.
+
+* Custodian banks hold assets on behalf of market participants and confirm transactions with the clearing house.
+
+* Financial infrastructure providers offer various services to the clearing house, such as trade matching and confirmation, risk management, and collateral management.
+
+* Data providers supply market data to the blockchain, which is used to inform trading decisions and help price financial instruments.
+
+* Smart contracts, executed on the blockchain, can help automate various aspects of financial transactions and reduce the need for intermediaries.
